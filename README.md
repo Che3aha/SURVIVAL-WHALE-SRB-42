@@ -1,5 +1,7 @@
 # The Hitchhiker’s Survival Guide Through Serbia’s Parks
 
+<img width="1052" height="650" alt="image" src="https://github.com/user-attachments/assets/cfcc7dbe-c84b-4b2d-bb29-c6ea3a567230" />
+
 A futuristic, multilingual and satirical landing page for a questionably essential Serbia survival kit.
 
 The project presents four survival items for visitors attempting to navigate Serbian national parks, traffic, borders, queues, signs and conversations without becoming unnecessarily reasonable.
